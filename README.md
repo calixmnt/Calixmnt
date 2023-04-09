@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="50%"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></td>
-    <td width="50%"><img src="[https://i.pinimg.com/originals/4f/05/95/4f0595b0e1421428a053ff7aea868424.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZjNzUyYTU0ODQ1MWJjYzNiYjY2OThiZThlNWJjNDU0Yjc5OGE2OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)"></td>
+    <td width="50%"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZjNzUyYTU0ODQ1MWJjYzNiYjY2OThiZThlNWJjNDU0Yjc5OGE2OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"></td>
   </tr>
 </table>
 
