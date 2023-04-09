@@ -1,7 +1,8 @@
 <div style="display: flex;">
-  [![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)]()
-  [![MasterHead]([https://www.pinterest.com/pin/happy-programmers-day--744782857102542665/](https://i.pinimg.com/originals/4f/05/95/4f0595b0e1421428a053ff7aea868424.gif))]() 
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="50%">
+  <img src="https://www.pinterest.com/pin/happy-programmers-day--744782857102542665/https://i.pinimg.com/originals/4f/05/95/4f0595b0e1421428a053ff7aea868424.gif" width="50%">
 </div>
+
 <h1 align="center">Salut, Je suis Calixx</h1>
 <img align="right" alt="Coding" width="400" src="https://mberlove.com/blog/wp-content/uploads/2016/07/pshkvsky_gif2code_10_js.gif"/>
 
