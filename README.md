@@ -29,7 +29,7 @@
 <a href="https://twitter.com/calixxx23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="calixxx23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/calix monnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calix monnet" height="30" width="40" /></a>
 <a href="https://instagram.com/calixxmnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calixxmnt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/calixx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="calixx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCR0lcqcng3z3bExAEE9zQFA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="calixx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langages et outils:</h3>
