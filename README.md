@@ -6,22 +6,16 @@
 </table>
 
 
-<h1 align="center">Salut, Je suis Calixx</h1>
+<h1 align="center">tu peux m'appeler Calixx</h1>
 <img align="right" alt="Coding" width="400" src="https://mberlove.com/blog/wp-content/uploads/2016/07/pshkvsky_gif2code_10_js.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calixxx&label=Profile%20views&color=0e75b6&style=flat" alt="calixxx" /> </p>
 
 <p align="left"> <a href="https://twitter.com/calixxx23" target="blank"><img src="https://img.shields.io/twitter/follow/calixxx23?logo=twitter&style=for-the-badge" alt="calixxx23" /></a> </p>
 
-- 🔭 Je travail actuellement sur **Ecommitee, RdApp,...**
-
-- J'apprends actuellement **ReactJs, ReactNative ...**
-
-- 💬 **que du love**
-
 - 📫 Me contacter **calixmonnet@gmail.com**
 
-- ⚡ A Savoir **Je chante, je rap.**
+- ⚡ A Savoir **Je chante, je rap aussi (souvent).**
 
 
 <h3 align="left">Mes réseaux :</h3>
